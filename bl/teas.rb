@@ -1,4 +1,3 @@
-$teas = $mongo.collection('teas')
 
 CATEGORIES = ["Green", "Red", "White", "Black"]
 TEAS = ["Lotus", "Fruit", "Roibus", "Lemon"]
